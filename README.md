@@ -4,4 +4,7 @@ portfolio
 HTML 
 CSS 
 # link 
-live url:
+live url:https://musa108.github.io/my-portfolio-/ 
+# acknowledgement 
+thanks miss adetutu for the knowledge pass to me to be able to build this 
+
